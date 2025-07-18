@@ -14,7 +14,7 @@ Terms:\
 Notation:\
 $f:R^n -> R^m$ means..\
 $R^n$ = Domain of f\
-$R^m$ Codomain of f\
+$R^m$ Codomain of f
 
 Note: the codomain is the set of all possible output values, while the range is the subset of the codomain that contains only the actual output values produced by the function for a given domain
 
@@ -30,6 +30,6 @@ $(.)^2$\
 ^2
 
 sets\
-${(x,y): y = x^2}$\
+${(x,y): y = x^2}$
 
 graphs..
