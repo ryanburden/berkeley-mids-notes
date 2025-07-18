@@ -1,14 +1,14 @@
 1.1 Intro
 
-This unit is about linear functions. We will start by defining a function.
+This unit is about linear functions. We will start by defining a function.\
 
-1.2 What is a function?
+1.2 What is a function?\
 
-Def. A function f is a rule that assigns to each input x in its domain an output f(x) in its codomain
+Def. A function f is a rule that assigns to each input x in its domain an output f(x) in its codomain\
 
 Terms:
-    - Domain = Set of all inputs
-    - Codomain = Superset of all outputs
+    - Domain = Set of all inputs\
+    - Codomain = Superset of all outputs\
     - Range = Set of all outputs
 
 Notation:
@@ -24,7 +24,7 @@ Representing Functions:
 formulas
 $f(x) = x^2$
 $y = x^2$
-$x -> maps to x^2$
+$x -> x^2$
 $x^2$
 $(.)^2$
 $^2$
