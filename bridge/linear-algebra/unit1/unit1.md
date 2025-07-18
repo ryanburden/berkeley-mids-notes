@@ -33,3 +33,19 @@ sets\
 ${(x,y): y = x^2}$
 
 graphs..
+
+1.3 What is a linear function?
+
+Single variable calculus.\
+a linear function has the form $y=mx+b$
+
+another property of "linear" functions\
+line segments map proportionally to line segments
+
+Now, we want to generalize this form to more dimensions\
+Def: A function $f: R^n -> R^m$ is called affine if for every $u,v in R^n$ and for every $t in [0,1]$
+ $f((1-t)u + tv) = (1-t)f(u) + tf(v)$
+
+Def: A function $f:R^n -> R^m$ is called linear if $f(u+v) = f(u)+f(v)$ and $f(au) = af(u)$ for every $u,v in R^n$ and for every $a in R$
+
+Exercise f is linear if and only if f is affine and f(0) = 0
