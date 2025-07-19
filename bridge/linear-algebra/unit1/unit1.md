@@ -59,3 +59,7 @@ We can apply linear algebra theorems to $g(x) - g(o)$ and add back $g(o)$
 
 2) For the class of affine functions from $R^n -> R^m$\
 This class is isomorphic to the class of linear functions from $R^(n+1) -> R^m$
+
+1.5 Operations on Real Matrices
+
+Def: A real matrix is an $n x m$ rectangular array of real numbers.
