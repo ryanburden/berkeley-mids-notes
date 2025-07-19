@@ -49,3 +49,13 @@ Def: A function $f: R^n -> R^m$ is called affine if for every $u,v in R^n$ and f
 Def: A function $f:R^n -> R^m$ is called linear if $f(u+v) = f(u)+f(v)$ and $f(au) = af(u)$ for every $u,v in R^n$ and for every $a in R$
 
 Exercise f is linear if and only if f is affine and f(0) = 0
+
+1.4 Affine Functions as Linear Functions
+
+Linear algebra focuses on linear functions. It preserves addition and multiplication by real numbers. We can use linear algebra to study affine functions.
+
+1) If $g:R^n->R^m$ is a fixed affine function, then $g(x) - g(o)$ is a linear function.\
+We can apply linear algebra theorems to $g(x) - g(o)$ and add back $g(o)$
+
+2) For the class of affine functions from $R^n -> R^m$\
+This class is isomorphic to the class of linear functions from $R^(n+1) -> R^m$
