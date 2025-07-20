@@ -62,4 +62,8 @@ This class is isomorphic to the class of linear functions from $R^(n+1) -> R^m$
 
 1.5 Operations on Real Matrices
 
-Def: A real matrix is an $n x m$ rectangular array of real numbers.
+Def: A real matrix is an $n x m$ rectangular array of real numbers. Capital A represent a matrix, lower case A is the entry, and you include the ranges of the subscripts, i and j. Each aij is an entry of A representing the number in the ith row and jth column 
+
+Primary operations on real matrices:\
+- matrix addition: add each element component-wise to form new matrix. Note: you cannot add matrices of different dimensions\
+- matrix scalar multiplication: example: 2 * A
