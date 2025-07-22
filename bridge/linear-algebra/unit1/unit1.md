@@ -85,4 +85,4 @@ Rule: $x_k = <x,e_k>$
 
 1.7 Vectors as Single-Valued Linear Functions
 
-Theorem: Every linear function $f:\Reals^n\in\Reals$ can be uniquely represented as $f(u)=<a,u>$ for some $a \in \reals^n$
+Theorem: Every linear function $f:\Reals^n\in\Reals$ can be uniquely represented as $f(u)=<a,u>$ for some $a \in & ${\rm I\!R}$
