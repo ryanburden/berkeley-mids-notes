@@ -82,3 +82,7 @@ For $i=1, ..., n$ define $e_i$ = the vector in $\Reals^n$ with $1$ in the $i^{th
 For any $x\in \Reals^n$ we can write $\overline{x}=\displaystyle\sum_{k=1}^{n}x_k\cdot\overline{e_k}$
 
 Rule: $x_k = <x,e_k>$
+
+1.7 Vectors as Single-Valued Linear Functions
+
+Theorem: Every linear function $f:\Reals^n\in\Reals$ can be uniquely represented as $f(u)=<a,u>$ for some $a \in \reals^n$
