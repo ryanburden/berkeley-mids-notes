@@ -86,3 +86,22 @@ Rule: $x_k = <x,e_k>$
 1.7 Vectors as Single-Valued Linear Functions
 
 Theorem: Every linear function $f:\Reals^n\in\Reals$ can be uniquely represented as $f(u)=<a,u>$ for some $a \in \Reals$
+
+1.8 Operations on Real Vectors
+
+Def: A real vector is an ordered list of real numbers.\
+eg: 
+$
+\begin{pmatrix}
+   2 \\
+   3 \\
+   \pi \\
+   2.5
+\end{pmatrix} \in \Reals^4$
+
+Primary operations on real vectors
+
+Vector additon\
+Scalar multiplication\
+Inner Product\
+Note: In linear algebra, we don't define vector multiplication
