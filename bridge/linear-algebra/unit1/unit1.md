@@ -114,3 +114,25 @@ Define $Av$ to be the vector in $\Reals^m$: $\displaystyle\sum_{i=1}^{m}\display
 1.10 Matrices as Linear Functions
 
 Theorem: If $f: \Reals^n \to \Reals^m$ is a linear function then $f$ is uniquely represented by a matrix $A \in \Reals^{m x n}$ such that $f(x) = Ax$ for every $x \in \Reals^n$
+
+1.11 Composition of Linear Functions
+
+Suppose $f:\Reals^n\to\Reals^m$ and $g:\Reals^p\to\Reals^n$\
+Then the composition $(f\circ g):\Reals^p\to\Reals^m$ is defined by $(f\circ g)(u) = f(g(u))$\
+$(f\circ g)$ is linear. 
+
+Since $f\circ g$ is linear, it is uniquely represented by a matrix $C \in \Reals^{m x p}$
+
+1.12 The Matrix Product
+
+For $A \in \Reals^{mxn}$ and $B \in \Reals^{nxp}$\
+$A$ represents a liner function $f:\Reals^n\to \Reals^m$
+$B$ represents a liner function $f:\Reals^p\to \Reals^n$
+
+Define the matrix product $AB$ to be the matrix $C$ representing $f\circ g:\Reals^p\to\Reals^m$
+
+In practice:\
+$A_i =$ the $i^{th}$ row of $A$
+$B_k =$ the $k^{th}$ row of $B$
+
+Then $c_{ik}$ = $<A_i, B_k>$
