@@ -105,3 +105,12 @@ Vector additon\
 Scalar multiplication\
 Inner Product\
 Note: In linear algebra, we don't define vector multiplication
+
+1.9 The Matrix Vector Product
+
+If $A \in \Reals^{m x n} $ and $v \in \Reals^n$\
+Define $Av$ to be the vector in $\Reals^m$: $\displaystyle\sum_{i=1}^{m}\displaystyle\sum_{j=1}^{n}a_{ij}v_j\overline{e_i}$
+
+1.10 Matrices as Linear Functions
+
+Theorem: If $f: \Reals^n \to \Reals^m$ is a linear function then $f$ is uniquely represented by a matrix $A \in \Reals^{m x n}$ such that $f(x) = Ax$ for every $x \in \Reals^n$
