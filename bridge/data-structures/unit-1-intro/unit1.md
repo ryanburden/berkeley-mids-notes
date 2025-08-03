@@ -56,3 +56,12 @@ Variables/Names are used to access objects. Name space connects to object space 
 Names dont have types. Names could be reassigned to different objects. This is reffered to as "Dynamic Typing". Python is a dynamically typed language, meaning that the types associated with each name are determined at runtime.
 
 New definition of Python, given this information: Python is a high-level, interpreted, strongly typed, dynamically typed programming language.
+
+1.7 How to Solve Anything With a Computer
+
+1. Conditionals (if, else) - allow a program to branch
+
+2. Iteration (while, for) - looping condition
+
+While statement: general iteration
+For statement: "for variable in iterable". more flexible and convenient
