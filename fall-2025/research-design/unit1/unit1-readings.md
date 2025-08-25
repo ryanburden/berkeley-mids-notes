@@ -34,3 +34,9 @@
 
 - The third pass
     - Attempt to virtually re-implement the paper.
+
+5. How to Lie with Statistics
+- Written by Darrell Huff in 1954, dives into the pitfalls and trickery of statistics. Storks deliver babies! Gave rise to statistical cynicism.
+- Hill discovered correlation between smoking and lung cancer through hospital surveys and statistical analysis.
+- Power of doubt: It's easier to argue against something than in favor of it.
+- Darrel Huff was hired by big tobacco to spread doubt in cigarette-cancer causation claims.
