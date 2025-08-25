@@ -15,3 +15,22 @@
     - Next, think about how you will react to the data when it arrives
     - Then, create a metric that can tell you which world is best.
     - Finally, consider what magnitude of evidence is required to stray from default and what your risk tolerance is. Then, you can finally get into the numbers.
+
+3. How to Read a Paper
+- The "Three Pass Approach"
+    - Read the paper in three passes, instead of one-time beginning to end. Each pass builds upon learnings from the previous pass. The first pass gives a general idea. The second pass lets you grasp the content. The third pass helps you understand the paper in depth.
+- The first pass
+    - Quick scan to get a bird's-eye view of the paper. Read the title, abstract, and intro. Read the section and sub-section headings, but ignore everything else. Read the conclusions. Glance at references.
+    - You should be able to answer 5 C's
+        - Category
+        - Context
+        - Correctness
+        - Contributions
+        - Clarity
+
+- The second pass
+    - Look carefully at figures, diagrams, and illustrations
+    - You should be able to summarize paper to someone else
+
+- The third pass
+    - Attempt to virtually re-implement the paper.
