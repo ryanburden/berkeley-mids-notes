@@ -40,3 +40,8 @@
 - Hill discovered correlation between smoking and lung cancer through hospital surveys and statistical analysis.
 - Power of doubt: It's easier to argue against something than in favor of it.
 - Darrel Huff was hired by big tobacco to spread doubt in cigarette-cancer causation claims.
+
+6. The Golden Rule
+- The greater the proficiency, the more acute the polarization. Curiosity breaks this pattern.
+- Curiosity forms in the gap between what we know and what we want to know.
+- The illusion of explanatory depth. When confronted with their lack of undestanding, political polarization decreased.`
