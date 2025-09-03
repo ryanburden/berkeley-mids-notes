@@ -44,3 +44,11 @@ Objects
 - Python is strongly typed
     - python will restrict the operations you can perform based on the object's type
 
+Representing Numbers
+
+- int
+    - can be positive or negative
+    - no limit to how large the number can be
+- float
+    - float records to 16 decimal places. lost digits are called rounding error
+
