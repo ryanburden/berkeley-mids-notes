@@ -52,3 +52,10 @@ Representing Numbers
 - float
     - float records to 16 decimal places. lost digits are called rounding error
 
+Control/Flow Control
+- "Control" where in the program that execution is happening
+
+- Conditionals: if, elif, else
+
+- Loops: while, for
+
