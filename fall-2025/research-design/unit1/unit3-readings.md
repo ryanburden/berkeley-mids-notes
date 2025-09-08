@@ -27,4 +27,11 @@
     - Useful for strategy allocation and resource development
 - 6. Destroy the Barriers to Agile Behaviors
     - Get everyone on the same page. If a new mobile app is top priority for development teams, it should also be the same priority for QA teams, integration, budgeting, etc. Example: Fex/fel is critical to many high priority teams at AI Labs, yet the team resposibile for the tool does not prioritize it the same. This creates slowness, blockers, and resentment within my team.
-    - Name only one boss for each decision. Think Baharak, Ananth, Ajay, PMs.
+    - Name only one boss for each decision. Think Baharak, Ananth, Ajay, PMs fighting.
+
+2. Are You Solving the Right Problems? Wedell-Wedellsborg, T
+
+- Biggest pitfall is overcomplicating the diagnostic process. Best diagnoses come from an alternative definition of your problem
+- The Slow Elevator Problem:
+    - Problem: Slow elevator. First solution: replace elevator. Reframed solution: Place mirrors near elevator.
+    - Make the elevator faster vs. make the wait feel shorter
