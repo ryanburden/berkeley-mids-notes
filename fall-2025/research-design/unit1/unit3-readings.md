@@ -34,4 +34,20 @@
 - Biggest pitfall is overcomplicating the diagnostic process. Best diagnoses come from an alternative definition of your problem
 - The Slow Elevator Problem:
     - Problem: Slow elevator. First solution: replace elevator. Reframed solution: Place mirrors near elevator.
-    - Make the elevator faster vs. make the wait feel shorter
+    - Make the elevator faster vs. Make the wait feel shorter
+- Seven practices
+    - Establish legitimacy
+    - Bring outsiders into the discussion
+    - Get people's deifinitions in writing
+    - Ask what's missing
+    - Consider multiple practices
+    - Analyze positive exceptions
+    - Question the objective
+
+3. Data Science and the Art of Persuasion
+- 90% of data science shortcomings are "last mile problems". Communication that leads to action.
+
+4. Intake form
+- What decision or action will you make with this data?
+- What is the real problem you're trying to solve?
+- Will this deliver business value within 90 days?
