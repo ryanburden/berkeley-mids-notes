@@ -4,3 +4,13 @@ Function: piece of code to reuse in a project
 - 1. Define the function
 - 2. Call the function
 
+Functions and the Call Stack
+
+- Object that keeps track of where control is supposed to go
+- Ex:
+
+- In Main at line 25
+- In geometric_mean at Line 12
+- In sqrt at Line 8
+
+- In stacks, you can only add one item to the top of the stack, or remove one item from the top of the stack
