@@ -14,3 +14,4 @@
     - go for quantity
 
 - selection on the dependent variable is a no no
+    - ie: in order to understand failures, you need to look at both successes and failures
