@@ -14,3 +14,16 @@ Functions and the Call Stack
 - In sqrt at Line 8
 
 - In stacks, you can only add one item to the top of the stack, or remove one item from the top of the stack
+
+The Stack Trace
+- shows you the call/execution stack and goes through it
+
+Value of functions
+- Decomposition
+- Modularity
+    - flexible, reusable, readable
+- Abstraction
+    - hide implementation details
+    - create layers for low-level and high-level tasks
+
+Namespaces
