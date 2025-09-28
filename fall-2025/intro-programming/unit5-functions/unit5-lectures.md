@@ -27,3 +27,20 @@ Value of functions
     - create layers for low-level and high-level tasks
 
 Namespaces
+- Local / Global namespaces
+- Local variable changes do not affect global variables
+- Local namespaces are made when functions are executed
+
+Accessing Global Variables
+- Global variables are accessible from within functions
+- Steps in running a function
+    - Create a new local namespace
+    - For each parameter, create a new local variable and bind it to the argument
+    - For each assignment statement, if name is not local namespace, create a new local variable
+    - Execute the statements
+
+Recursion
+- Two elements for a recursive algo:
+    - 1. base case
+    - 2. recursive rule
+
