@@ -37,3 +37,9 @@
 - Threats to validity
     - internal validity threat: 
     - external validity threat
+
+3. Creswell & Creswell Ch 9: Qualitative Methods
+
+- Researcher as the key instrument
+- Inductive and Deductive Data Analysis
+- Emergent design
