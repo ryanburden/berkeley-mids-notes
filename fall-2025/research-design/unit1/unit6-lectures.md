@@ -16,3 +16,4 @@ Core ideas:
 - 1.3 strange to mention power analysis. and we need more theory! will physical letters have more impact in the modern digital world?
 - 1.4 is redundant. The study may prove or disprove that letter writing is effective. it is not capable to suggest other different initiatives.
 - 2.0 clarify propensity, can be confusing for client-facing doc. look at diff demographics. are the letters varying?
+- 2.x it seems like we are gonna hand off the entire project after design and random assignment
