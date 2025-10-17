@@ -1,4 +1,4 @@
-Big-O
+Big-0
 - computer scientists count steps to assess runtime     
 - the number of steps is a function of the input size n
 - comparing growth rates can be hard
@@ -24,3 +24,12 @@ Rule 4: Don't Worry About the Base of Logs
 
 Bisection Search:
 - growth rate is 0(log2n)
+
+Big-O:
+- Big O is an upper bound
+- Big-Omega is a lower bound
+- if f is O(g) and Omega(g), then f is 0(g)
+- Theta is exact long term growth rate of algorithm
+
+- Modules: single python file that contains vars, functions, classes that you can import and use
+- Packages: directories that contain a collection of modules
