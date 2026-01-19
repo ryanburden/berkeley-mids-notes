@@ -48,3 +48,14 @@ Linux CLI Business Cases
     - Linux on the desktop - Ubuntu, has drivers for most devices
     - Linux VM that needs a GUI - Lubuntu (pared down version of Ubuntu)
     - Academic Research - Debian on servers, Ubuntu on desktop
+
+BASH Shell
+
+What is a shell
+- a layer
+- program that creates a Linux CLI
+- Bourne-again shell
+
+Shell scripts
+- Scripts that allow us to programmatically run Linux CLI commands
+- Programming constructs: variables, ifs, loops, etc
