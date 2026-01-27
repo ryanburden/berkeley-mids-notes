@@ -59,3 +59,12 @@ What is a shell
 Shell scripts
 - Scripts that allow us to programmatically run Linux CLI commands
 - Programming constructs: variables, ifs, loops, etc
+
+BASH Shell - Use Cases
+
+- Installation: create BASH shell scripts to install software
+- Production Jobs
+    - use a job scheduler
+    - specify dependencies: time, file arrival, triggers
+
+Github Git CLI 
